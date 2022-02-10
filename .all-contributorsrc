@@ -464,6 +464,33 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "marioleed",
+      "name": "Mario Sannum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1763448?v=4",
+      "profile": "https://github.com/marioleed",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "octokatherine",
+      "name": "Katherine Peterson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49968061?v=4",
+      "profile": "https://github.com/octokatherine",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "alexcwatt",
+      "name": "Alex Watt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/494201?v=4",
+      "profile": "https://alexcwatt.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "skipCi": true
